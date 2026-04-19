@@ -1,0 +1,13 @@
+AI Collaboration Documentation
+
+AI Prompt:
+https://copilot.microsoft.com/shares/RzCcwoUB2MqxFxWt5n1MW
+
+
+What the AI helped me with:
+The AI platform assisted me with writing the code that is simple and easy to understand. 
+
+What I learned:
+AI tends to provide extremely complex codes when asked by the user. However, with the correct prompts given, AI delivers code that is easy to follow.
+
+ 

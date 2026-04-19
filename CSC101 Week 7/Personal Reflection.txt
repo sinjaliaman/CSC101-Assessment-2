@@ -1,0 +1,3 @@
+Personal Reflection
+
+Working with files surprised me because the process was much simpler than I expected, and reading a file only required a few clear steps. I also realized how useful this skill is in a business context, since many jobs involve handling reports, customer information, or automating routine tasks that rely on file data. The next thing I want to learn is how to write data back into files and build small scripts that can process information more efficiently.
