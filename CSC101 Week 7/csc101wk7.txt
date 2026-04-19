@@ -1,0 +1,10 @@
+Groceries list
+- milk
+- meat
+- fruits
+- storage containers
+- dishwashing liquid
+- detergent 
+- bin bags
+- chocolates
+- bread
