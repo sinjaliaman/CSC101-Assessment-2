@@ -1,0 +1,5 @@
+The hardest part of this project was figuring out on how to break the problem into manageable tasks. 
+AI greatly assisted with concepts like file handling, data validation and structuring dictionaries. AI 
+also showed me how each written function fits into the bigger problem. Instead of just giving me answers, 
+the AI helped me understand why certain approaches work, which made the whole project feel more achievable 
+and boosted my confidence as I kept building.
